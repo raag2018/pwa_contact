@@ -30,6 +30,6 @@
     "start_url": "/index.html",
     "background_color": "#ee6f72",
     "display": "standalone",
-    "theme_color": "#3367D6",
+    "theme_color": "#9e2123",
     "description": "Weather forecast information"
 }
